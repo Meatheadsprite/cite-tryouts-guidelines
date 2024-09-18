@@ -4,7 +4,7 @@
 
 1. **Registered IGNs/Account IDs Only**
    - Players must join games using the **IGNs/Account IDs** they registered with.
-   - Joining the game under a different account or username is **prohibited**.
+   - Joining the game under a different account orythjtjr username is **prohibited**.
 
 2. **Pre-Match Presence**
    - Players must be present **10 minutes before** the start of their match for **ping and camera checks**.
